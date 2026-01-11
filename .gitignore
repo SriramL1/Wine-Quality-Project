@@ -1,0 +1,3 @@
+# Sensitive Google Cloud files
+wine-quality-analysis-2025.json
+*.json  # ← optional: ignore all JSON if appropriate for your project
